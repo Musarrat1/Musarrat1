@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musarrat Tabbassum Siddika</h1>
 
 <h3 align="center">A passionate frontend developer and UI/UX designer from Bangladesh</h3>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
