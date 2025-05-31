@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musarrattabbassumsiddika&show_icons=true&theme=dracula&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musarrattabbassumsiddika&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" />
-</div>
 
 ###
 
