@@ -57,7 +57,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bento.me/musarrattabbassumsiddika](https://bento.me/musarrattabbassumsiddika)
 
-- 💬 Ask me about **Flutter, HTML , CSS ,Content Create**
+- 💬 Ask me about **Flutter, HTML, CSS, Content Create**
 
 - 📫 How to reach me **musarrattabbassumsiddika@gmail.com**
 
