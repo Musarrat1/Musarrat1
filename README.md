@@ -47,6 +47,11 @@
 
 
 ###
+I'm a motivated and results-driven professional with a strong passion for continuous learning and innovation. With experience in frontend development. I thrive on creating meaningful impact through collaboration and strategic thinking.
+
+I enjoy working in dynamic environments where I can contribute to growth, streamline processes, and deliver high-quality outcomes. My strengths include web development, UI/UX design, flutter development.
+
+Whether it's building new projects, optimizing existing systems.I approach every opportunity with enthusiasm and integrity
 
 - 🔭 I’m currently working on [Tea-house](https://github.com/Musarrat1/tea-house.git)
 
