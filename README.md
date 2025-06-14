@@ -66,7 +66,7 @@ Whether it's building new projects, optimizing existing systems.I approach every
 
 - 📫 How to reach me **musarrattabbassumsiddika@gmail.com**
 
-- ⚡ Fun fact **I think I am clumsy**
+- ⚡ Fun fact **I think I am a clumsy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
